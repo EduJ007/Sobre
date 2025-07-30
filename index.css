@@ -1,0 +1,23 @@
+#voltar {
+    text-decoration:none;
+    color:black;
+    display:inline-block;
+}
+#h1dovoltar {
+    margin-left:10px;
+    display:inline-block;
+    background: #fff;
+    border-radius:10px;
+    padding:10px;
+    border: 2px solid black;
+    color:#F4511E;
+}
+body {
+    background:whitesmoke;
+}
+#sobre-nibuy {
+    border: 2px solid black;
+}
+#contato-feedback {
+    border: 2px solid black;
+}
